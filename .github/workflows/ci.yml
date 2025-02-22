@@ -54,4 +54,4 @@ jobs:
         if: github.event_name == 'push'
         uses: actions/upload-artifact@v4
         with:
-          path: SDK/*.zip
+          path: /**/*.zip
