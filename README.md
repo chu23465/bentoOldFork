@@ -1,4 +1,4 @@
-# mp4decrypt_mod_linux
+# Fork of https://github.com/Randomcoolguy123/mp4decrypt_mod_linux/
 
 Modded version of mp4decrypt from https://www.bento4.com/
 
